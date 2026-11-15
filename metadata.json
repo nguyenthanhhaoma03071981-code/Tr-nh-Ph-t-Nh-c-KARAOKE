@@ -1,0 +1,8 @@
+{
+  "name": "Trình Phát Nhạc KARAOKE CHUẨN",
+  "description": "Trình phát nhạc YouTube & Karaoke chuẩn: Tự động chấm điểm khi hát karaoke với micro thực tế, bảng vàng điểm số và hiệu ứng sân khấu chúc mừng rực rỡ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
